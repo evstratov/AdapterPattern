@@ -1,0 +1,6 @@
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
